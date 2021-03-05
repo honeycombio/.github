@@ -1,4 +1,4 @@
-# Default Communuty Health Files
+# Default Community Health Files
 
 This repository contains default community health files for repositories in the Honeycomb organization and will automatically be picked up if they are not overwritten.
 
