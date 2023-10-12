@@ -1,5 +1,5 @@
 name: Apply project labels
-on: [issues, pull_request_target, label]
+on: [issues, pull_request, label]
 jobs:
   apply-labels:
     name: Apply common project labels
