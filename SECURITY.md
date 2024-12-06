@@ -1,7 +1,7 @@
 # Security Policy
 
 This security policy applies to public projects under the [honeycombio organization][gh-organization] on GitHub.
-For security reports involving the services provided at `(ui|ui.eu|api|api.eu).honeycomb.io`, refer to the [Honeycomb Bug Bounty Program][bugbounty] for scope, expectations, and reporting procedures.
+For security reports involving the services provided at `(ui|ui.eu1|api|api.eu1).honeycomb.io`, refer to the [Honeycomb Bug Bounty Program][bugbounty] for scope, expectations, and reporting procedures.
 
 ## Security/Bugfix Versions
 
